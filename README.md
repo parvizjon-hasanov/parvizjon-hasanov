@@ -2,15 +2,15 @@
 <!-- ║                     PARVIZJON HASANOV · README                        ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
-<a href="https://github.com/parvizjon-hasanov">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00A3FF,100:00FF94&height=220&section=header&text=Parvizjon%20Hasanov&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Infrastructure%20Engineer%20·%20Go%20·%20High-Load%20·%20FinTech&descSize=18&descAlignY=60&animation=fadeIn" alt="header" width="100%"/>
-</a>
-
 <div align="center">
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░ TYPING ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░ NAME (big title) ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00FF94&center=true&vCenter=true&width=820&height=60&lines=Backend+%26+Infrastructure+Engineer+%28Go%29;Building+High-Load+Banking+Microservices;gRPC+%C2%B7+Kafka+%C2%B7+PostgreSQL+%C2%B7+Kubernetes;Designing+systems+that+don't+go+down" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=46&duration=4000&pause=1000&color=00FF94&center=true&vCenter=true&width=820&height=80&lines=Parvizjon+Hasanov" alt="name" />
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░ TYPING (role) ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00A3FF&center=true&vCenter=true&width=820&height=55&lines=Backend+%26+Infrastructure+Engineer+%28Go%29;Building+High-Load+Banking+Microservices;gRPC+%C2%B7+Kafka+%C2%B7+PostgreSQL+%C2%B7+Kubernetes;Designing+systems+that+don't+go+down" alt="typing" />
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░ PROFILE BADGES ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
@@ -91,7 +91,10 @@ func main() {
 
 #### 💻 OS & Environments
 <p>
-  <img src="https://skillicons.dev/icons?i=apple,ubuntu,debian,linux,bash&theme=dark" alt="os" />
+  <img src="https://skillicons.dev/icons?i=ubuntu,debian,linux,bash&theme=dark" alt="os" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macos"/>
 </p>
 
 #### 🧰 IDEs · Tools
@@ -131,6 +134,6 @@ func main() {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF94,50:00A3FF,100:0D1117&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=00A3FF&center=true&vCenter=true&width=600&height=45&lines=Thanks+for+stopping+by!+%E2%9A%A1" alt="footer" />
 
 </div>
