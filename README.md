@@ -75,43 +75,35 @@ func main() {
 
 #### 🏗️ Backend · Infra · DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,kafka,grpc,docker,kubernetes,nginx,linux,bash&theme=dark" alt="backend" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,kafka,docker,kubernetes,nginx&theme=dark" alt="backend" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=trpc&logoColor=white" alt="grpc"/>
+  <img src="https://img.shields.io/badge/REST-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="rest"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana"/>
 </p>
 
 #### ⚡ A bit of Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,html,css&theme=dark" alt="frontend" />
 </p>
 
-#### 🧰 Tools
+#### 💻 OS & Environments
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,goland,postman,prometheus,grafana&theme=dark" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=apple,ubuntu,debian,linux,bash&theme=dark" alt="os" />
 </p>
 
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=parvizjon-hasanov&show_icons=true&count_private=true&hide_border=true&title_color=00FF94&icon_color=00A3FF&text_color=c9d1d9&bg_color=0D1117" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvizjon-hasanov&layout=compact&hide_border=true&langs_count=8&title_color=00FF94&text_color=c9d1d9&bg_color=0D1117" alt="top langs" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parvizjon-hasanov&theme=highcontrast&hide_border=true&background=0D1117&ring=00FF94&fire=00A3FF&currStreakLabel=00FF94" alt="streak" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=parvizjon-hasanov&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+#### 🧰 IDEs · Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=webstorm,pycharm,phpstorm,androidstudio,idea,postman,git,github&theme=dark" alt="tools" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/GoLand-00ACC1?style=for-the-badge&logo=goland&logoColor=white" alt="goland"/>
+  <img src="https://img.shields.io/badge/DataGrip-22D88F?style=for-the-badge&logo=datagrip&logoColor=white" alt="datagrip"/>
+  <img src="https://img.shields.io/badge/Arc%20Browser-1A1A1A?style=for-the-badge&logo=arc&logoColor=white" alt="arc"/>
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="obsidian"/>
+</p>
 
 </div>
 
